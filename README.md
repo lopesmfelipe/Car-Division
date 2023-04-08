@@ -6,4 +6,4 @@
  
  English: 
  
- JAVA program that shows the division of cars between people, and the rest of that division. It has two data inputs, one for the number of cars, and the second for people. In the first class the program starts with data entries at the beginning, then asking for a confirmation. The second class does the opposite, asking for confirmation and then asking for data.
+ JAVA program that shows the division of cars between people, and the rest of that division. It has two data inputs, one for the number of cars, and the second for people. In the first class the program starts data inputs at the beginning, then asking for a confirmation. The second class does the opposite, asking for confirmation and then asking for data.
